@@ -37,10 +37,10 @@ The dataset used in this project includes:
 ### 🔍 Dashboard Preview
 
 #### 1. Overview Dashboard
-![Dashboard Overview](images/dashboard_overview.png)
+![Overview Dashboard](https://github.com/Yashrajgithub/Energy-Consumption-Analysis-Using-Power-Bi/blob/main/Overview.png)
 
-#### 2. Trend & Source Analysis
-![Trend Analysis](images/trend_analysis.png)
+#### 2. Energy Consumption Analysis
+![Energy Consumption](https://github.com/Yashrajgithub/Energy-Consumption-Analysis-Using-Power-Bi/blob/main/EnergyConsumption.png)
 
 ## 🧹 Data Cleaning & Transformation
 
@@ -61,5 +61,3 @@ The dataset used in this project includes:
 2. Import the `.pbix` file or the raw CSV dataset.
 3. Use the Power Query Editor to clean and prepare the data.
 4. Explore the dashboards and reports.
-
----
